@@ -1,0 +1,217 @@
+:root {
+    --bg: #000000;
+    /* PURE BLACK */
+    --text: #ffffff;
+    /* PURE WHITE */
+    --glass: rgba(255, 255, 255, 0.06);
+    --border: rgba(255, 255, 255, 0.12);
+    --accent: #44aaff;
+}
+
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BODY CENTERING */
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont,
+        "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    overflow: hidden;
+}
+
+/* ROOT */
+#root {
+    width: 100%;
+    max-width: 1000px;
+    height: 100%;
+    max-height: 720px;
+}
+
+/* MAIN WRAPPER */
+.main-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* THREE.JS CANVAS */
+.three-container {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+}
+
+/* UI LAYER */
+.ui-layer {
+    position: absolute;
+    inset: 0;
+    z-index: 10;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 40px;
+    pointer-events: none;
+}
+
+/* ENABLE INTERACTION */
+.ui-layer header,
+.ui-layer .control-bar,
+.ui-layer .center-info {
+    pointer-events: auto;
+}
+
+/* HEADER */
+header {
+    position: absolute;
+    top: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+header h3 {
+    font-weight: 300;
+    letter-spacing: 4px;
+    font-size: 0.9rem;
+    opacity: 0.7;
+}
+
+/* CENTER INFO */
+.center-info {
+    text-align: center;
+    max-width: 600px;
+}
+
+/* LISTENING TEXT */
+.listening-indicator {
+    font-size: 0.75rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 18px;
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        opacity: 0.4;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0.4;
+    }
+}
+
+/* CONVERSATION */
+.conversation-display {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.user-text {
+    font-size: 1.15rem;
+    opacity: 0.6;
+    font-weight: 300;
+}
+
+.ai-text {
+    font-size: 1.45rem;
+    font-weight: 500;
+    line-height: 1.45;
+    text-shadow: 0 6px 25px rgba(0, 0, 0, 0.6);
+}
+
+/* CONTROL BAR */
+.control-bar {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    display: flex;
+    gap: 15px;
+
+    background: var(--glass);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+
+    padding: 10px 14px;
+    border-radius: 50px;
+    border: 1px solid var(--border);
+
+    width: 100%;
+    max-width: 520px;
+
+    transition: transform 0.2s ease;
+}
+
+.control-bar:focus-within {
+    transform: translateX(-50%) scale(1.02);
+}
+
+/* MIC BUTTON */
+.mic-btn {
+    background: white;
+    color: black;
+    border: none;
+    border-radius: 50px;
+    padding: 0 26px;
+    font-weight: 600;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.mic-btn:hover {
+    transform: scale(1.05);
+}
+
+.mic-btn.listening {
+    background: var(--accent);
+    color: white;
+}
+
+.mic-btn.processing {
+    background: gray;
+    cursor: wait;
+}
+
+/* INPUT */
+input[type="text"] {
+    flex: 1;
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    padding: 10px;
+    outline: none;
+    font-family: inherit;
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, 0.3);
+}

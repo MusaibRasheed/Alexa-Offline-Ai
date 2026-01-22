@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Front-end Server",
+			"type": "shell",
+			"command": "cd \"f:\\Alexa Project using python\\Front-end\" && python -m http.server 8000",
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Run Flask Backend",
+			"type": "shell",
+			"command": "cd \"f:\\Alexa Project using python\\backend\" && python app.py",
+			"isBackground": true,
+			"group": "build"
+		}
+	]
+}

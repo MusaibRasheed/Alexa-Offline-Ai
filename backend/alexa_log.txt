@@ -1,0 +1,101 @@
+2026-01-17 12:02:34,696 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-17 12:02:34,698 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-17 12:03:11,246 - INFO - User Command: what is the current
+2026-01-17 12:04:29,259 - INFO - User Command: what's the time
+2026-01-17 12:04:55,281 - INFO - User Command: can you call
+2026-01-17 12:05:16,981 - INFO - User Command: tell me a joke
+2026-01-17 12:05:30,669 - INFO - User Command: play
+2026-01-17 12:05:37,582 - INFO - User Command: play baar
+2026-01-17 12:06:17,818 - INFO - User Command: check weather
+2026-01-17 12:07:57,071 - INFO - User Command: shut down my
+2026-01-17 12:08:02,221 - INFO - User Command: shutdown computer
+2026-01-21 17:46:15,714 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 17:46:15,747 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 17:46:20,143 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 17:46:20,143 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 17:47:46,438 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 17:47:46,440 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 17:47:49,109 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 17:47:49,111 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 17:53:39,287 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 17:53:39,294 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 17:53:41,989 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 17:53:41,989 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 17:58:45,342 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 17:58:45,349 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 17:58:48,909 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 17:58:48,909 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 17:59:20,505 - INFO - User Command: hello, alexa.
+2026-01-21 17:59:31,546 - INFO - User Command: hello alexa, can you open youtube?
+2026-01-21 18:06:24,913 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 18:06:24,966 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 18:06:27,850 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 18:06:27,850 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 18:40:22,126 - INFO - User Command: alexa, open the youtube.
+2026-01-21 18:40:34,330 - INFO - User Command: hey alexa, open the youtube.
+2026-01-21 18:40:46,862 - INFO - User Command: hello alexa, open the google.
+2026-01-21 18:45:10,540 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 18:45:10,581 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 18:47:39,289 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 18:47:39,291 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 18:47:43,590 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 18:47:43,591 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 19:08:26,505 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 19:08:26,526 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 19:10:03,304 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 19:10:03,319 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 19:10:07,517 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 19:10:07,518 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 19:12:26,545 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 19:12:26,547 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 19:12:30,964 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 19:12:30,968 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 22:52:11,470 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 22:52:11,507 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 22:52:14,072 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 22:52:14,072 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 22:52:28,610 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 22:52:28,610 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 22:53:30,638 - INFO - User Command: alexa, open the youtube.
+2026-01-21 22:53:46,545 - INFO - User Command: alexa open the youtube
+2026-01-21 22:54:56,523 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 22:54:56,523 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 22:55:25,763 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-21 22:55:25,763 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-21 22:56:01,595 - INFO - User Command: open the youtube 
+2026-01-22 07:51:13,109 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:51:13,128 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:51:16,668 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:51:16,669 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:52:25,429 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:52:25,429 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:52:45,707 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:52:45,707 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:52:45,731 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:52:45,732 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:53:37,654 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:53:37,654 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:53:37,722 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:53:37,723 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:53:45,233 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:53:45,265 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:53:45,487 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:53:45,488 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:54:46,352 - INFO - User Command: alexa hi
+2026-01-22 07:54:57,222 - INFO - User Command: alexa open the youtube
+2026-01-22 07:56:48,191 - INFO - User Command: alexa, what time is it?
+2026-01-22 07:57:02,616 - INFO - User Command: blair song on youtube.
+2026-01-22 07:57:12,974 - INFO - User Command: alexa play song on youtube.
+2026-01-22 07:57:38,013 - INFO - User Command: alexa, open google.
+2026-01-22 07:58:55,170 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:58:55,178 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:58:55,258 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:58:55,258 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:59:08,934 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:59:08,935 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:59:09,204 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:59:09,204 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:59:45,163 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:59:45,164 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-01-22 07:59:48,479 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Musaib\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-22 07:59:48,480 - INFO - Using writeable comtypes cache directory: 'C:\Users\Musaib\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
